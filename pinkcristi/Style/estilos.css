@@ -1,0 +1,25 @@
+.colorUno{
+background-color: #82e0ff;
+}
+
+.colorDos{
+background-color: #83a2e4;
+}
+
+.colorTres{
+background-color: #9d3a68;
+}
+
+.lavishly-yours-regular {
+  font-family: "Lavishly Yours", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fondo{
+  background-image: url(../img/Fondo.jpg);
+  background-size: cover;
+  background-position: top center;
+  background-attachment: fixed;
+  padding: 25%;
+}
